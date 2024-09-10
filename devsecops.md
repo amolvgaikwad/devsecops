@@ -34,3 +34,13 @@ DevSecOps is an approach that integrates security practices within the DevOps pr
 ### 5. Continuous Monitoring and Incident Response/Alerting:
 - Real-time monitoring of applications and infrastructure is essential in detecting vulnerabilities or security breaches early.
 - Integrate tools like Falco, Prometheus, or ELK to monitor and respond to incidents.
+
+### 6. Threat Modeling and Vulnerability Management:
+- Conduct regular threat modeling exercises to understand the potential risks.
+Implement a robust vulnerability management program to detect, assess, and mitigate vulnerabilities.
+
+### 7. Compliance and Governance:
+- Automate compliance checks to ensure that your DevSecOps pipeline adheres to relevant security standards (e.g., GDPR, PCI-DSS, HIPAA).
+- Use tools like OpenSCAP or Cloud Custodian for automated compliance checks.
+### 8. Collaboration Between Teams:
+- Security, development, and operations teams must work together. It's important to break down silos and encourage cross-team collaboration through communication platforms and shared goals.
